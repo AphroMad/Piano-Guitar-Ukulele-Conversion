@@ -1,0 +1,20 @@
+To know : 
+
+- Put a capo on position 5 for the guitar and it will make (approximately) the same chords than a ukulele
+- Guitar tuned in E2 A2 D3 G3 B3 E4 HERE, so doesn't work with other tune model 
+- Guitar chords frequency are : 82,4 110 146.8 196 246.9 329.6
+- Ukulele tuned in G4 C4 E4 A4
+- Ukulele chords frequency are : 392 261.63 329.63 440
+- 
+
+
+
+
+
+
+
+Some link : 
+    https://fr.wikipedia.org/wiki/Accordage
+    https://fr.wikipedia.org/wiki/Fr%C3%A9quences_des_touches_du_piano
+    https://fr.wikipedia.org/wiki/Quinte
+
